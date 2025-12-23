@@ -6,7 +6,7 @@ phases:
       nodejs: 20
     commands:
       - cd frontend
-      - npm install
+      - npm ci
   build:
     commands:
       - cd frontend
@@ -16,4 +16,5 @@ artifacts:
   base-directory: frontend/build
   files:
     - '**/*'
+
 
