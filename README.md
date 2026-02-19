@@ -1,7 +1,5 @@
 # Amazon Clone – CI/CD on AWS
 
-Live demo: http://amazon-clone-frontend-yunus.s3-website.eu-north-1.amazonaws.com  
-
 ## Overview
 Full stack Amazon‑style storefront deployed through a fully automated CI/CD pipeline on AWS. Source is hosted on GitHub, built with AWS CodeBuild, and deployed to an S3 static website bucket via AWS CodePipeline.
 
